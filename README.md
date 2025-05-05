@@ -1,8 +1,10 @@
 # QuizMaker
 
-## Демо
+## Демо и ссылки
 
-Посетите веб-приложение: [QuizMaker App](https://quiz-maker-rose.vercel.app/)
+Демо приложения: https://quiz-maker-rose.vercel.app/
+Репозиторий бэкенда: https://github.com/tortugichh/quiz-maker-backend№
+
 
 ## Краткое описание проекта
 

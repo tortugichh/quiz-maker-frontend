@@ -3,7 +3,7 @@
 ## Демо и ссылки
 
 Демо приложения: https://quiz-maker-rose.vercel.app/
-Репозиторий бэкенда: https://github.com/tortugichh/quiz-maker-backend№
+Репозиторий бэкенда: https://github.com/tortugichh/quiz-maker-backend
 
 
 ## Краткое описание проекта

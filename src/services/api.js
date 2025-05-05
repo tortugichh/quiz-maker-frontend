@@ -99,6 +99,7 @@ export const testsApi = {
     });
   },
   
+  
   deleteTest: async (id) => {
     if (!id) {
       throw new Error('ID теста не указан');

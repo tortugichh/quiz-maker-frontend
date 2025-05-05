@@ -9,6 +9,7 @@ const logResponse = (method, url, response) => {
 };
 
 
+
 const fetchWithError = async (url, options = {}) => {
   const method = options.method || 'GET';
   logRequest(method, url, options.body);
